@@ -23,4 +23,5 @@
 ## 🚀 Assets e pacotes utilizados:
 * Treasure Set - Free Chest: https://assetstore.unity.com/packages/3d/props/interior/treasure-set-free-chest-72345
 * Gold Coins: https://assetstore.unity.com/packages/3d/props/gold-coins-1810
+* Yughues Free Ground Materials: https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-ground-materials-13001
 * Probuilder: https://unity.com/pt/features/probuilder

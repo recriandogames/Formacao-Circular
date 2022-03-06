@@ -129,7 +129,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-61596
+  m_Name: pb_Mesh20480
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -287,23 +287,6 @@ Mesh:
     offset: 0
     size: 0
     path: 
---- !u!1 &470917903 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5558080966033516098, guid: 737a192200a777846a13ec9175707709, type: 3}
-  m_PrefabInstance: {fileID: 6313374251131378118}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &470917904
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 470917903}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 782e1a381e1f08340a277ada13e2dca1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &653260035
 GameObject:
   m_ObjectHideFlags: 0
@@ -413,7 +396,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 49c3c02661a83fd42b33859cfbf9a17d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
